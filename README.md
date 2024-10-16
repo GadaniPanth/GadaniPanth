@@ -24,7 +24,7 @@
 <br>
 <hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gadanipanth&show_icons=true&locale=en&layout=compact" alt="gadanipanth" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p&show_icons=true&locale=en" alt="p" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gadanipanth&show_icons=true&locale=en" alt="gadanipanth" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gadanipanth&" alt="gadanipanth" /></p>
 <hr>
 <h3 align="left">Support:</h3>

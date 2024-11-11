@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center"> A passionate Web developer from India 🇮🇳</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="user-select: none; -webkit-user-select: none; -ms-user-select: none; -moz-user-select: none;">
+<img align="right" alt="coding" width="400" src="https://github.com/GadaniPanth/Banner/blob/main/eye-12452.gif" style="user-select: none; -webkit-user-select: none; -ms-user-select: none; -moz-user-select: none;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gadanipanth&label=Profile%20views&color=0e75b6&style=flat" alt="gadanipanth" /> </p>
 

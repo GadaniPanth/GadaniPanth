@@ -28,9 +28,9 @@
 </div>
 <br>
 <hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gadanipanth&show_icons=true&locale=en&layout=compact" alt="gadanipanth" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gadanipanth&show_icons=true&locale=en" alt="gadanipanth" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gadanipanth&" alt="gadanipanth" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gadanipanth&show_icons=true&locale=en&layout=compact" alt="gadanipanth" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gadanipanth&show_icons=true&locale=en" alt="gadanipanth" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gadanipanth&" alt="gadanipanth" /></p>
 <hr>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/panth0824"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="panth0824" /></a></p><br><br>

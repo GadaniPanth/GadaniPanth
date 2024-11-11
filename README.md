@@ -28,9 +28,8 @@
 </div>
 <br>
 <hr>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gadanipanth&show_icons=true&locale=en&layout=compact" alt="gadanipanth" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gadanipanth&show_icons=true&locale=en" alt="gadanipanth" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gadanipanth&" alt="gadanipanth" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gadanipanth&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="gadanipanth" /></p>
+<p align="center"><img align="" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gadanipanth&count_private=true&theme=react&border_radius=10" width="390" height="150" alt="gadanipanth" /><img align="" src="https://github-readme-stats-salesp07.vercel.app/api?username=gadanipanth&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="gadanipanth" width="390" height="150" /></p>
 <hr>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/panth0824"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="panth0824" /></a></p><br><br>

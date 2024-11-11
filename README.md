@@ -1,4 +1,4 @@
-![logo](https://github.com/GadaniPanth/GadaniPanth/blob/main/Banner.png)
+![logo](https://github.com/GadaniPanth/Banner/blob/main/Banner%20(1).png)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FF0E00&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Panth+Gadani!;" />
 </h1>

@@ -14,7 +14,7 @@
   </a>
   <a href="https://linkedin.com/in/panthgadani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panthgadani" height="28" width="40" /></a>
   <a href="https://instagram.com/panth0824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="panth0824" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/@kingofkings0824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kingofkings0824" height="34" width="40" /></a>
+  <a href="https://www.youtube.com/@kingofkings0824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kingofkings0824" height="34" width="40" /></a>
 
 - 📄 <a href="https://drive.google.com/file/d/1ej1sedL93h3N5nhQa3zIg-H3Xv618r7h/view?usp=sharing">**Resume**</a>
 

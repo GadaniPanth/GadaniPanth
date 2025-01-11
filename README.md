@@ -16,7 +16,7 @@
   <a href="https://instagram.com/panth0824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="panth0824" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@kingofkings0824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kingofkings0824" height="34" width="40" /></a>
 
-- 📄 <a href="https://drive.google.com/file/d/1iJmZwMutUyDTjUrKK1xu2q6FAYtKiPgH/view?usp=sharing">**Resume**</a>
+- 📄 <a href="https://drive.google.com/file/d/1uDpQxyWzdj6S_EPhbbBL7NOo5EO6gLVn/view?usp=sharing">**Resume**</a>
 
 - ⚡ Fun fact **I'm Funny😁**
 

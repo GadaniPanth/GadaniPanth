@@ -17,7 +17,7 @@
   <a href="https://www.youtube.com/@kingofkings0824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kingofkings0824" height="34" width="40" /></a>
 
 - 📄 <a href="https://drive.google.com/file/d/121r2mJwhd2bNmQrHI-JIR52ogIpZKbgC/view?usp=sharing">**Resume**</a>
-- 📄 <a href="https://myportfolio-tg2y.onrender.com">**Portfolio**</a>
+- 🔗 <a href="https://myportfolio-tg2y.onrender.com">**Portfolio**</a>
 
 - ⚡ Fun fact **I'm Funny😁**
 

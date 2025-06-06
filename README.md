@@ -19,7 +19,7 @@
 - 📄 <a href="https://drive.google.com/file/d/121r2mJwhd2bNmQrHI-JIR52ogIpZKbgC/view?usp=sharing">**Resume**</a>
 - 🔗 <a href="https://myportfolio-tg2y.onrender.com">**Portfolio**</a>
 
-- ⚡ Fun fact **I'm Funny😁**
+- ⚡ Fun fact **I'm Funny😀**
 
 <h3 align="left">Languages and Tools:</h3>
 

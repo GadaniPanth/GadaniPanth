@@ -29,8 +29,8 @@
 </div>
 <br>
 <hr>
-<p align="center"><img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gadanipanth&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="gadanipanth" /></p>
-<p align="center"><img align="" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gadanipanth&count_private=true&theme=react&border_radius=10" width="390" height="150" alt="gadanipanth" /><img align="" src="https://github-readme-stats-salesp07.vercel.app/api?username=gadanipanth&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="gadanipanth" width="390" height="150" /></p>
+<p align="left"><img align="" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gadanipanth&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="gadanipanth" /></p>
+<p align="left"><img align="" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gadanipanth&count_private=true&theme=react&border_radius=10" width="390" height="150" alt="gadanipanth" /><img align="" src="https://github-readme-stats-salesp07.vercel.app/api?username=gadanipanth&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="gadanipanth" width="390" height="150" /></p>
 <hr>
 
 <div align="center">

@@ -15,6 +15,7 @@
   <a href="https://linkedin.com/in/panthgadani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panthgadani" height="28" width="40" /></a>
   <a href="https://instagram.com/panth0824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="panth0824" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@kingofkings0824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kingofkings0824" height="34" width="40" /></a>
+<a href="http://www.fiverr.com/s/38Qe92Y" target="blank">Fiverr</a>
 
 - 📄 <a href="https://gadani-panth.onrender.com/GADANI_PANTH.pdf">**Resume**</a>
 - 🔗 <a href="https://gadani-panth.onrender.com/">**Portfolio**</a>

@@ -17,8 +17,8 @@
   <a href="https://www.youtube.com/@kingofkings0824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kingofkings0824" height="34" width="40" /></a>
 <a href="http://www.fiverr.com/s/38Qe92Y" target="blank">Fiverr</a>
 
-- 📄 <a href="https://gadani-panth.onrender.com/GADANI_PANTH.pdf">**Resume**</a>
-- 🔗 <a href="https://gadani-panth.onrender.com/">**Portfolio**</a>
+- 📄 <a href="https://gadani-panth.vercel.app/GADANI_PANTH.pdf">**Resume**</a>
+- 🔗 <a href="https://gadani-panth.vercel.app/">**Portfolio**</a>
 
 - ⚡ Fun fact **I'm Funny😀**
 
